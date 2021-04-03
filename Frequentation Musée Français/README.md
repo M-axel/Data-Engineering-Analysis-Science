@@ -1,10 +1,10 @@
 # Analyse de la fréquentation des muséee français entre 2013 et 2018
 
-## <a href="https://www.kaggle.com/axelma/frequentation-musee-2013-2018">Lien vers le notebook hebergé par Kaggle.com</a>
+Lien vers le notebook <a href="https://www.kaggle.com/axelma/frequentation-musee-2013-2018" target="_blank">hebergé par Kaggle.com</a> ou visible sur <a href="./frequentation-musee-2013-2018.ipynb" target="_blank">Github<a>.
 
 ## Dataset
-- <a href="https://www.data.gouv.fr/fr/datasets/frequentation-des-musees-de-france/">Fréquentation des musées de Fance (FMF)</a>, Philippe-Alexandre P., mis à jour le 8 février 2021, sous licence libre
-- Création d'une carte de la France : <a href="https://www.data.gouv.fr/fr/datasets/contours-des-regions-francaises-sur-openstreetmap/">OpenStreetMap</a>, DGFiP, 2 janvier 2018, sous licence ODbL</a>
+- <a href="https://www.data.gouv.fr/fr/datasets/frequentation-des-musees-de-france/" target="_blank">Fréquentation des musées de Fance (FMF)</a>, Philippe-Alexandre P., mis à jour le 8 février 2021, sous licence libre
+- Création d'une carte de la France : <a href="https://www.data.gouv.fr/fr/datasets/contours-des-regions-francaises-sur-openstreetmap/" target="_blank">OpenStreetMap</a>, DGFiP, 2 janvier 2018, sous licence ODbL</a>
 
 Travail préliminaire sur le dataset FMF :
 Un premier travail de data cleaning a été effectué avec un script python.
