@@ -1,0 +1,3 @@
+# OpenStreetMap, DGFiP, 2 janvier 2018, sous licence ODbL
+
+https://www.data.gouv.fr/fr/datasets/contours-des-regions-francaises-sur-openstreetmap/
